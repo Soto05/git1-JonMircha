@@ -1,4 +1,13 @@
 html {
   background-color: black;
   color: white;
+  text-align: center;
+}
+
+a {
+  color: orange;
+}
+
+a:hover {
+  color: orangered;
 }
